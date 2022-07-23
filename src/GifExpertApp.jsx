@@ -36,8 +36,6 @@ const GifExpertApp = () => {
             )}
            
 
-                {/* Gif item */}
-                {/* <button onClick={addCategory}>Agregar categoría</button> */}
         </>
 
         
