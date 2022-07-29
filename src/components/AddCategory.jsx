@@ -17,7 +17,7 @@ export const AddCategory = ({onNewCategory}) => {
     }
 
     return (
-        <form onSubmit={onSubmit}>
+        <form aria-label="formulario" onSubmit={onSubmit}>
         <input 
             type="text"
             placeholder="Mete aquí tu categoría"
